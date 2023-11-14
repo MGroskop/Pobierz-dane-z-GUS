@@ -1,4 +1,4 @@
-<?
+<? 
 namespace app\plugin\Gus;
 
 class Run  extends \app\plugin\_PajaxPlugin
